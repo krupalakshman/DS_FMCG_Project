@@ -1,0 +1,11 @@
+python=3.11
+streamlit
+matplotlib
+seaborn
+tensorflow
+pandas
+numpy
+scikit-learn
+catboost
+xgboost
+plotly
